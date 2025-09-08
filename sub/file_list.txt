@@ -1,6 +1,5 @@
 cica_Stream.png
 circa.png
-circa_image.png
 circa_stream.png
 second_test.png
 test_hi_joe.png
